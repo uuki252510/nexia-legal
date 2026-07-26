@@ -5,3 +5,8 @@
 ## プライバシーポリシー
 
 - [まいにちクエスト](privacy-mainichi-quest.md)
+- [こえぬり](koenuri/privacy-policy.html)
+
+## サポート
+
+- [こえぬり](koenuri/support.html)
